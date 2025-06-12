@@ -43,3 +43,8 @@
 - មានគម្រោងបើកចំហ (Open Source)
 
 ---
+## 📷 Screenshot Demo (Download)
+
+You can download the screenshot demo file using the link below:
+
+👉 [Download View Picture Demo (.rar)](https://github.com/Din-Rasin/school-management-system-main/raw/5d86b520e6230c256bee6f487c4f6fa67224ae22/View%20Picture%20Demo%20School-Management-System-main.rar)
