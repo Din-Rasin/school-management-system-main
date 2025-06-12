@@ -1,146 +1,45 @@
-# 🍊 school-management-system 
-PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other. [Click here to view a live demo](https://sms.oranbyte.com)
+# 🍊 ប្រព័ន្ធគ្រប់គ្រងសាលា (PHP)
 
+នេះជាប្រព័ន្ធគ្រប់គ្រងសាលាមួយដែលត្រូវបានអភិវឌ្ឍដោយប្រើភាសា **PHP** និងមូលដ្ឋានទិន្នន័យ **MySQL**។ គោលបំណងនៃកម្មវិធីនេះគឺដើម្បីជួយសាលា ឬមណ្ឌលបណ្តុះបណ្តាលឯកជនក្នុងការគ្រប់គ្រងទិន្នន័យនានា ដូចជា៖ សិស្ស គ្រូបង្រៀន ថ្នាក់ មុខវិជ្ជា វត្តមាន ពិន្ទុ និងរបាយការណ៍ផ្សេងៗ។
 
+កម្មវិធីនេះមានផ្ទាំងគ្រប់គ្រង (Admin Panel) ដែលមានការពារ ដោយប្រើ Username និង Password ហើយអាចប្រើបានសម្រាប់អ្នកគ្រប់គ្រង និងគ្រូបង្រៀន។ វាត្រូវបានរចនាឡើងឲ្យមានភាពងាយស្រួលប្រើ និងឆបគ្នាជាមួយទំហំអេក្រង់នានា។
 
-## 🥏 Technolgies Used 
-  1. PHP (8.1) 
-  2. MySQL database  
-  3. Bootstrap 5
-  4. JQuery, JavaScript
-  5. HTML, CSS
+---
 
-## 💡 FEATURES 
-  1. student record management
-  2. Teacher record management 
-  3. Leave Management
-  4. Notice Upload 
-  5. Exam result upload
-  6. Notes upload
-  7. Bus Service  
-  8. Syllabus upload / update
-  9. Time table
-  10. Attendence Management
-  11. Password reset, Forgot password
-  12. Front Page 
-  13. Single login
-  14. Dark theme support
-  15. Multi-Language Support <small style="color: orange;">(new)</small>
+## 🧩 លក្ខណៈពិសេស
 
-## 🦤 SCREENSHOTS
+- 👨‍🎓 **គ្រប់គ្រងសិស្ស** – បញ្ចូល កែប្រែ ឬលុបទិន្នន័យសិស្ស
+- 👩‍🏫 **គ្រប់គ្រងគ្រូបង្រៀន** – រក្សាទុកព័ត៌មានគ្រូ និងមុខវិជ្ជាដែលបង្រៀន
+- 🏫 **គ្រប់គ្រងថ្នាក់ និងមុខវិជ្ជា** – បែងចែកថ្នាក់ និងភ្ជាប់មុខវិជ្ជាទៅថ្នាក់
+- 📝 **វត្តមាន និងពិន្ទុ** – កំណត់វត្តមានសិស្ស និងថែមពិន្ទុប្រឡង
+- 📋 **របាយការណ៍** – បង្កើតរបាយការណ៍សម្រាប់អ្នកគ្រប់គ្រង និងគ្រូបង្រៀន
+- 🔒 **ប្រព័ន្ធចូលដោយសុវត្ថិភាព** – ជាមួយការចែកមុខងារ (Roles) ជាអ្នកគ្រប់គ្រង និងគ្រូ
 
-### Pre-View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/1.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/2.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-</div>
-<br>
+---
 
-### Admin View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-   <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/oranbyte1.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/4.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/5.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/6.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/7.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/8.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/9.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/10.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-</div>
-<br>
+## 🛠️ បច្ចេកវិទ្យាដែលបានប្រើ
 
-### Teacher View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/11.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/12.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-</div>
-<br>
+- 💻 **ភាសាសរសេរកូដ**: PHP (Core PHP)
+- 🗃️ **មូលដ្ឋានទិន្នន័យ**: MySQL
+- 🎨 **ផ្នែកខាងមុខ (Frontend)**: HTML, CSS, JavaScript
+- 🎨 **រចនាបថនិងភាពឆបគ្នា**: Bootstrap
 
-### Student View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-   <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/13.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/14.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/15.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/16.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/20.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    
-</div>
-<br>
+---
 
+## 💡 សមស្របសម្រាប់
 
-### Owner View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/17.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/19.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    
-</div>
-<br>
+- សាលាឯកជន
+- មណ្ឌលបណ្ដុះបណ្ដាលតូចៗ
+- សាលាផ្នែកឯកជនដែលចង់ចាប់ផ្តើមប្រើប្រាស់គ្រប់គ្រងអនឡាញ
+- អ្នកចាប់ផ្តើមសិក្សាភាសា PHP និង MySQL CRUD
 
-## ✅ HOW TO USE?
+---
 
-  <b>Pre-requirement</b> : Make sure you have both php and MySQL installed on your PC. You can also use XAMPP which provide BOTH (php + MySQL).<br><br>
+## 📌 អត្ថប្រយោជន៍
 
- <b>Step-1 :</b> Start XAMPP <br>
-   Open XAMPP Control panel and start the Apache And MySQL Server  <br>
+- ការគ្រប់គ្រងទិន្នន័យបានរហ័ស
+- ការបង្ហាញ UI ងាយស្រួលប្រើ
+- អាចអភិវឌ្ឍបន្ថែម ឬប្ដូរតាមតម្រូវការ
+- មានគម្រោងបើកចំហ (Open Source)
 
- <b>Step-2 :</b> Create Database <br>
-   <b>The schema file of the database setup is available at database/_sms.sql </b>
-   <br><br>
-   From you xampp open phpmyadmin by clicking on admin button in front of MySQL -> create a database with the name '_sms' -> import the  database/_sms.sql file to complete the database setup.<br>
-
-<b>Step-3 :</b> Placement <br>
-   <b> If you have xampp installed on your PC you need to place the downloaded folder on 'htdocs directory' </b>
-   <br><br>
-   Copy the downloaded folder and place it into htdocs folder. Located at <i>C:\xampp\htdocs</i>
-   <br><br>
-   make sure your directory setup is like : <i>C:\xampp\htdocs\school-management-system\ </i> : and index.php file is available on the that location
-
-<b>Step-4 :</b> Run the application <br>
-   <b> visit on the url : <i>http://localhost/school-management-system</i> </b>
-   <br> Visit to the given URL to see the running website
-
-## 🔐 Emails and Passwords
-
-The project comes with default user on each panel you can remove and update them also.<br>
-The **Credentials** for default logins are
-
-| Panel   |  Email             | Password |
-| ----:   |  :---------------- | :------: |
-| Admin   | admin@gmail.com    | 123      |
-| Teacher | teacher@gmail.com  | 123      |
-| Student | student@gmail.com  | 123      |
-| Owner   | owner@gmail.com    | 123      |
-
-- Note : **Password for New Teachers and Students:**  
-   The default password for newly created teacher and student accounts is set to their **date of birth**.  
-   - Example: If the date of birth is **12 July 2000**, the password would be **12072000**.
-
-## ❤️ Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-
-
+---
