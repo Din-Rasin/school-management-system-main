@@ -1,4 +1,28 @@
 Here is the full polished and enhanced English section you can add to your GitHub README, combining your original description with the detailed **Demo Screenshots** part for a professional and user-friendly presentation:
+## 📷 Screenshot Gallery
+
+Here are screenshots demonstrating various features of the School Management System:
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20085914.png" width="400" alt="Screenshot 1" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20085925.png" width="400" alt="Screenshot 2" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20085936.png" width="400" alt="Screenshot 3" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20085945.png" width="400" alt="Screenshot 4" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090011.png" width="400" alt="Screenshot 5" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090020.png" width="400" alt="Screenshot 6" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090028.png" width="400" alt="Screenshot 7" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090040.png" width="400" alt="Screenshot 8" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090049.png" width="400" alt="Screenshot 9" />
+</p>
+
+<!-- Add more rows as needed following the pattern above -->
+
 
 ---
 
