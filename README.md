@@ -1,50 +1,178 @@
-# 🍊 ប្រព័ន្ធគ្រប់គ្រងសាលា (PHP)
-
-នេះជាប្រព័ន្ធគ្រប់គ្រងសាលាមួយដែលត្រូវបានអភិវឌ្ឍដោយប្រើភាសា **PHP** និងមូលដ្ឋានទិន្នន័យ **MySQL**។ គោលបំណងនៃកម្មវិធីនេះគឺដើម្បីជួយសាលា ឬមណ្ឌលបណ្តុះបណ្តាលឯកជនក្នុងការគ្រប់គ្រងទិន្នន័យនានា ដូចជា៖ សិស្ស គ្រូបង្រៀន ថ្នាក់ មុខវិជ្ជា វត្តមាន ពិន្ទុ និងរបាយការណ៍ផ្សេងៗ។
-
-កម្មវិធីនេះមានផ្ទាំងគ្រប់គ្រង (Admin Panel) ដែលមានការពារ ដោយប្រើ Username និង Password ហើយអាចប្រើបានសម្រាប់អ្នកគ្រប់គ្រង និងគ្រូបង្រៀន។ វាត្រូវបានរចនាឡើងឲ្យមានភាពងាយស្រួលប្រើ និងឆបគ្នាជាមួយទំហំអេក្រង់នានា។
+Absolutely! Here's an expanded and professional **English version** of your **School Management System** README with clear descriptions, features, technologies, usage, and screenshots section—perfect for your GitHub or portfolio:
 
 ---
 
-## 🧩 លក្ខណៈពិសេស
+## 🏫 School Management System (PHP & MySQL)
 
-- 👨‍🎓 **គ្រប់គ្រងសិស្ស** – បញ្ចូល កែប្រែ ឬលុបទិន្នន័យសិស្ស
-- 👩‍🏫 **គ្រប់គ្រងគ្រូបង្រៀន** – រក្សាទុកព័ត៌មានគ្រូ និងមុខវិជ្ជាដែលបង្រៀន
-- 🏫 **គ្រប់គ្រងថ្នាក់ និងមុខវិជ្ជា** – បែងចែកថ្នាក់ និងភ្ជាប់មុខវិជ្ជាទៅថ្នាក់
-- 📝 **វត្តមាន និងពិន្ទុ** – កំណត់វត្តមានសិស្ស និងថែមពិន្ទុប្រឡង
-- 📋 **របាយការណ៍** – បង្កើតរបាយការណ៍សម្រាប់អ្នកគ្រប់គ្រង និងគ្រូបង្រៀន
-- 🔒 **ប្រព័ន្ធចូលដោយសុវត្ថិភាព** – ជាមួយការចែកមុខងារ (Roles) ជាអ្នកគ្រប់គ្រង និងគ្រូ
+The **School Management System** is a comprehensive web-based application developed using **Core PHP** and **MySQL** designed to help private schools and training centers manage day-to-day operations efficiently. This system simplifies student, teacher, class, attendance, and exam data management through a secure, responsive, and user-friendly interface.
+
+This project is ideal for schools that want to transition from manual to digital record keeping and is a great starter project for PHP learners focusing on full CRUD operations.
 
 ---
 
-## 🛠️ បច្ចេកវិទ្យាដែលបានប្រើ
+### 🌟 Key Features
 
-- 💻 **ភាសាសរសេរកូដ**: PHP (Core PHP)
-- 🗃️ **មូលដ្ឋានទិន្នន័យ**: MySQL
-- 🎨 **ផ្នែកខាងមុខ (Frontend)**: HTML, CSS, JavaScript
-- 🎨 **រចនាបថនិងភាពឆបគ្នា**: Bootstrap
+#### 👨‍🎓 Student Management
+
+* Add, update, and delete student profiles
+* Assign students to classes and track academic details
+
+#### 👩‍🏫 Teacher Management
+
+* Add teacher profiles and assign subjects
+* View teacher information and subject mapping
+
+#### 🏷️ Class & Subject Management
+
+* Create, update, and delete class sections
+* Map subjects to respective classes
+
+#### 📝 Attendance & Exam Records
+
+* Mark daily student attendance
+* Enter and manage exam scores
+* Generate academic performance reports
+
+#### 📊 Reports & Statistics
+
+* Attendance reports, result reports, and class-wise summaries
+* Easily export or print reports for administrative use
+
+#### 🔒 Secure Login System
+
+* Role-based access control (Admins and Teachers)
+* Password-protected login to ensure data security
 
 ---
 
-## 💡 សមស្របសម្រាប់
+### 🛠️ Technologies Used
 
-- សាលាឯកជន
-- មណ្ឌលបណ្ដុះបណ្ដាលតូចៗ
-- សាលាផ្នែកឯកជនដែលចង់ចាប់ផ្តើមប្រើប្រាស់គ្រប់គ្រងអនឡាញ
-- អ្នកចាប់ផ្តើមសិក្សាភាសា PHP និង MySQL CRUD
+| Layer    | Technology            |
+| -------- | --------------------- |
+| Frontend | HTML, CSS, JavaScript |
+| Styling  | Bootstrap             |
+| Backend  | PHP (Core PHP)        |
+| Database | MySQL                 |
+| Server   | XAMPP / WAMP / Apache |
+
+---
+
+### ✅ Suitable For:
+
+* Private schools and training centers
+* Academic institutions looking to digitize
+* Beginner PHP learners working on CRUD-based projects
 
 ---
 
-## 📌 អត្ថប្រយោជន៍
+### 📂 Installation Guide
 
-- ការគ្រប់គ្រងទិន្នន័យបានរហ័ស
-- ការបង្ហាញ UI ងាយស្រួលប្រើ
-- អាចអភិវឌ្ឍបន្ថែម ឬប្ដូរតាមតម្រូវការ
-- មានគម្រោងបើកចំហ (Open Source)
+1. **Clone or Download the Repository**
+
+   ```bash
+   git clone https://github.com/Din-Rasin/school-management-system-main.git
+   ```
+
+2. **Setup Local Server**
+
+   * Install [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](http://www.wampserver.com/en/)
+   * Move the project folder to `htdocs` (XAMPP) or `www` (WAMP)
+
+3. **Import the Database**
+
+   * Open `phpMyAdmin`
+   * Import the SQL file: `school.sql`
+
+4. **Configure Database**
+
+   * Open `config.php` and update database credentials if needed
+
+5. **Access the App**
+
+   * Open your browser and go to:
+     `http://localhost/school-management-system-main`
 
 ---
-## 📷 Screenshot Demo (Download)
 
-You can download the screenshot demo file using the link below:
+### 📷 Demo Screenshots
 
-👉 [Download View Picture Demo (.rar)](https://github.com/Din-Rasin/school-management-system-main/raw/5d86b520e6230c256bee6f487c4f6fa67224ae22/View%20Picture%20Demo%20School-Management-System-main.rar)
+You can preview the full UI through downloadable demo images:
+📦 [Click here to download Screenshot Demo (.RAR)](https://github.com/Din-Rasin/school-management-system-main/raw/5d86b520e6230c256bee6f487c4f6fa67224ae22/View%20Picture%20Demo%20School-Management-System-main.rar)
+
+Here are a few previews:
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20085914.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090020.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090110.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20150030.png" width="600" />
+</p>
+
+> 💡 *More screenshots are available in the RAR download link above.*
+
+---
+
+### 🔐 User Roles & Permissions
+
+| Role    | Permissions                                                                        |
+| ------- | ---------------------------------------------------------------------------------- |
+| Admin   | Full access: manage students, teachers, classes, subjects, attendance, and reports |
+| Teacher | Limited access: manage attendance and student marks only                           |
+
+---
+
+### 🚀 Project Goals
+
+* Simplify and digitize school records
+* Allow flexible role-based user interaction
+* Provide easy access to reports and academic data
+* Ensure security and data integrity
+
+---
+
+### 📈 Possible Future Enhancements
+
+* Add parent login and SMS notifications
+* Include report card printing (PDF export)
+* Advanced class scheduling and timetable
+* Multi-language support (English, Khmer, etc.)
+* Mobile-responsive improvements
+
+---
+
+### 🤝 Contribution Guide
+
+Want to contribute?
+
+1. Fork this repo
+2. Create your branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m 'Add new feature'`
+4. Push to your branch: `git push origin feature/your-feature`
+5. Open a Pull Request
+
+---
+
+### 📄 License
+
+This project is licensed under the **MIT License**.
+Feel free to use, customize, or distribute.
+
+---
+
+### 📬 Contact
+
+* GitHub: [Din-Rasin](https://github.com/Din-Rasin)
+* Email: [denrasin2917@gmail.com](mailto:denrasin2917@gmail.com)
+
+---
+
+Let me know if you'd like a **PDF version** of this or if you want me to combine it with Khmer language for a bilingual README!
