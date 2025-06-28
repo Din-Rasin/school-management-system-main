@@ -1,5 +1,4 @@
-Here is the full polished and enhanced English section you can add to your GitHub README, combining your original description with the detailed **Demo Screenshots** part for a professional and user-friendly presentation:
-## 📷 Screenshot Gallery
+
 
 Here are screenshots demonstrating various features of the School Management System:
 
@@ -21,7 +20,64 @@ Here are screenshots demonstrating various features of the School Management Sys
   <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090049.png" width="400" alt="Screenshot 9" />
 </p>
 
-<!-- Add more rows as needed following the pattern above -->
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090110.png" width="400" alt="Screenshot 10" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090127.png" width="400" alt="Screenshot 11" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090136.png" width="400" alt="Screenshot 12" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090143.png" width="400" alt="Screenshot 13" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090156.png" width="400" alt="Screenshot 14" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090211.png" width="400" alt="Screenshot 15" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090235.png" width="400" alt="Screenshot 16" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090246.png" width="400" alt="Screenshot 17" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090307.png" width="400" alt="Screenshot 18" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090345.png" width="400" alt="Screenshot 19" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090410.png" width="400" alt="Screenshot 20" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090417.png" width="400" alt="Screenshot 21" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090429.png" width="400" alt="Screenshot 22" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090500.png" width="400" alt="Screenshot 23" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090518.png" width="400" alt="Screenshot 24" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090546.png" width="400" alt="Screenshot 25" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090555.png" width="400" alt="Screenshot 26" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090605.png" width="400" alt="Screenshot 27" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090627.png" width="400" alt="Screenshot 28" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090641.png" width="400" alt="Screenshot 29" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090651.png" width="400" alt="Screenshot 30" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20145717.png" width="400" alt="Screenshot 31" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20145732.png" width="400" alt="Screenshot 32" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20145757.png" width="400" alt="Screenshot 33" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20150003.png" width="400" alt="Screenshot 34" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20150020.png" width="400" alt="Screenshot 35" />
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20150030.png" width="400" alt="Screenshot 36" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20145952.png" width="400" alt="Screenshot 37" />
+</p>
+
 
 
 ---
@@ -76,31 +132,6 @@ You can preview the full user interface and functionality through the downloadab
 📦 **[Download Screenshot Demo (.RAR)](https://github.com/Din-Rasin/school-management-system-main/raw/5d86b520e6230c256bee6f487c4f6fa67224ae22/View%20Picture%20Demo%20School-Management-System-main.rar)**
 
 ---
-
-### 🖼️ Preview Highlights
-
-Here are a few selected screenshots showcasing key parts of the system:
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20085914.png" width="600" alt="Dashboard Overview" />
-  <br/><em>Dashboard overview with statistics and quick access</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090020.png" width="600" alt="Student Management" />
-  <br/><em>Student management panel with CRUD operations</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20090110.png" width="600" alt="Teacher Profile" />
-  <br/><em>Teacher profiles and subject assignments</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Din-Rasin/school-management-system-main/raw/main/View%20Picture%20Demo%20School-Management-System-main/Screenshot%202025-05-21%20150030.png" width="600" alt="Attendance and Reports" />
-  <br/><em>Attendance marking and report generation</em>
-</p>
-
 ---
 
 ### 📌 Additional Demo Options
@@ -126,9 +157,3 @@ Here are a few selected screenshots showcasing key parts of the system:
 * Feedback and suggestions on UI improvements are welcome!
 
 ---
-
-If you want, I can help you create a **video script** or a **user manual PDF** next. Just let me know!
-
----
-
-Would you like me to assist with that?
